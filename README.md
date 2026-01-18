@@ -1,5 +1,5 @@
 <h1>Byte Comp AI</h1>
-
+<img src="screenshots/preview.png" alt="Uygulama Onizleme" width="600">
 <p>
 This project is an artificial intelligence system developed by <strong>Byte Comp</strong> that combines
 a <strong>chatbot</strong> and <strong>software development assistant</strong> into a single application.
