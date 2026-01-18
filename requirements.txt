@@ -1,0 +1,6 @@
+g4f
+speechrecognition
+pyaudio
+pyttsx3
+colorama
+python-dotenv
