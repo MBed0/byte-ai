@@ -5,7 +5,7 @@ This project is an artificial intelligence system developed by <strong>Byte Comp
 a <strong>chatbot</strong> and <strong>software development assistant</strong> into a single application.
 It allows users to chat, write code, and receive assistance through a secure, password-protected interface.
 </p>
-
+<img src="screenshots/chat.png" alt="Uygulama Chat" width="600">
 <hr>
 
 <h2>Installation</h2>
